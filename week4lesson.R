@@ -50,15 +50,8 @@ library(tidyverse)
 # 5 minute break!
 
 
-#cleaning data: what do we need to do based on the reading for today? duplicates, remove nas, geographical outilers
-### separate into parts 
+#cleaning data: what do we need to do based on the reading for today? 
 
-
-## geograpical outliers 
-
-## duplicates
-
-# plotting the clean data
 
 # set x and y limits
 
